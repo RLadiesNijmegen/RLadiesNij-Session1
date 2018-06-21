@@ -1,0 +1,45 @@
+LevelR,Background,AcademicLevel, LongRN,OtherGroups, ActiveMentor,ActiveOrganize,YMaybeActive,Commute,CommuteNumeric,SchedulePref
+Beginner,Academia,Post-doc,0,No,Maybe,No,0,No,0,Weekdays during working hours
+Intermediate,Academia,PhD,2,No,No,No,0,No,0,Weekdays during working hours
+Intermediate,Academia,PhD,10,No,No,No,0,No,0,Weekdays during working hours
+Advanced,Academia,PhD,4,No,Maybe,Maybe,1,No,0,Weekdays during working hours;Weekends in the mornings
+Advanced,Academia,PhD,3,No,Yes,Yes,1,No,0,Weekdays in the evenings
+Intermediate,Academia,Post-doc,7,No,Maybe,Maybe,1,No,0,Weekdays in the evenings
+Intermediate,Academia,PhD,3,No,Maybe,Maybe,1,No,0,Weekdays in the evenings
+Intermediate,Academia,PhD,3,No,Yes,Yes,1,No,0,Weekdays in the evenings
+Intermediate,Academia,PhD,5,No,Maybe,Maybe,1,No,0,Weekdays in the evenings
+Intermediate,Academia,Post-doc,5,No,Maybe,Maybe,1,No,0,Weekdays in the evenings
+Intermediate,Academia,PhD,1,No,Yes,Maybe,1,No,0,Weekdays in the evenings
+Advanced,Academia,Post-doc,5,Yes,Maybe,Maybe,1,No,0,Weekdays in the evenings
+Beginner,Academia,PhD,0,Yes,No,No,0,No,0,Weekdays in the evenings
+Beginner,Academia,PhD,0,Yes,No,No,0,No,0,Weekdays in the evenings
+Never used it but I would like to begin,Academia,Assistant Professor/ Prof,0,No,No,No,0,No,0,Weekdays in the evenings
+Beginner,Academia,PhD,0,No,Maybe,Yes,1,No,0,Weekdays in the evenings
+Intermediate,Academia,Masters student,1,No,No,No,0,Yes,10,Weekdays in the evenings
+Advanced,Academia,Post-doc,3,No,Yes,Yes,1,Yes,30,Weekdays in the evenings
+Advanced,Neither,NA,5,No,Maybe,Maybe,1,Yes,30,Weekdays in the evenings
+Intermediate,Academia,PhD,5,No,No,No,0,Yes,30,Weekdays in the evenings
+Advanced,Academia,Post-doc,7,NA,Maybe,Maybe,1,Yes,80,Weekdays in the evenings
+Beginner,Academia,PhD,NA,No,NA,Maybe,0,NA,NA,Weekdays in the evenings
+Intermediate,Academia,PhD,2,No,Maybe,Yes,1,No,0,Weekdays in the evenings;Weekdays during working hours
+Intermediate,Academia,PhD,4,No,Yes,Yes,1,No,0,Weekdays in the evenings;Weekdays during working hours
+Never used it but I would like to begin,Academia,PhD,0,No,No,No,0,No,0,Weekdays in the evenings;Weekdays during working hours
+Beginner,Academia,Masters student,1,No,No,No,0,No,0,Weekdays in the evenings;Weekdays during working hours
+Never used it but I would like to begin,Academia,Assistant Professor/ Prof,0,No,No,No,0,Yes,0,Weekdays in the evenings;Weekdays during working hours
+Beginner,Academia,PhD,0,No,Maybe,Maybe,1,NA,NA,Weekdays in the evenings;Weekdays during working hours;Weekends in the mornings
+Beginner,Academia,Masters student,1,No,No,No,0,No,0,Weekdays in the evenings;Weekdays during working hours;Weekends in the mornings;Weekends in the afternoons
+Intermediate,Academia,PhD,2,No,No,Maybe,0,Yes,20,Weekdays in the evenings;Weekends in the afternoons
+Intermediate,Academia,Masters student,1,No,Maybe,Maybe,1,No,0,Weekdays in the evenings;Weekends in the afternoons;Weekends in the evenings
+Intermediate,Academia,Post-doc,3,No,Maybe,Maybe,1,No,0,Weekdays in the evenings;Weekends in the afternoons;Weekends in the evenings
+Beginner,Academia,PhD,2,used to be in one that is not active anymore,Maybe,Maybe,1,Yes,0,Weekdays in the evenings;Weekends in the evenings
+Intermediate,Academia,PhD,4,No,No,Maybe,0,No,0,Weekdays in the evenings;Weekends in the mornings
+Beginner,Both,PhD,1,No,Yes,Maybe,1,Yes,40,Weekdays in the evenings;Weekends in the mornings
+Intermediate,Academia,PhD,1,No,No,Maybe,0,NA,NA,Weekdays in the evenings;Weekends in the mornings
+Never used it but I would like to begin,Academia,Masters student,NA,No,Maybe,Maybe,1,No,0,Weekdays in the evenings;Weekends in the mornings;Weekends in the afternoons
+Intermediate,Academia,Masters student,1,No,Maybe,Maybe,1,Yes,0,Weekdays in the evenings;Weekends in the mornings;Weekends in the afternoons
+Advanced,Academia,Masters student,2,No,Maybe,Maybe,1,Yes,0,Weekdays in the evenings;Weekends in the mornings;Weekends in the afternoons;Weekends in the evenings
+Advanced,Academia,Post-doc,7,No,Maybe,No,0,Yes,0,Weekends in the afternoons
+Intermediate,Academia,PhD,2,No,Maybe,Maybe,1,Yes,30,Weekends in the afternoons
+Intermediate,Academia,PhD,3,No,Maybe,No,0,Yes,540,Weekends in the mornings;Weekends in the afternoons;Weekends in the evenings
+Intermediate,Academia,Masters student,1,No,Maybe,No,0,No,0,NA
+Beginner,Academia,Masters student,1,No,Yes,Maybe,1,NA,NA,NA

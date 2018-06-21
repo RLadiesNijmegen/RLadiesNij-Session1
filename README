@@ -1,0 +1,8 @@
+### Readme: Rladies Nijmegen intro graphs. Laurel Brehm, 20ish June 2018
+
+These were created based upon a google survey!  The original headings from the export from google can be found in Rladies-origheadings.txt.  
+
+The main data are in the RLadiesNijmegenintroductionsurve-Deidentified. Some columns (comments mostly) were removed from this, because I felt that it made the respndent identity potentially obvious.
+The columns with more than one answer have been saved as separate sheeds (HelpR, OtherSoftware, Packages, WhatR and WhatSee). This is convenient for summarizing but also preserves RLadies identies.
+
+The script R_ladies_graphs.R calls the various data files in this folder to make graphs (saved in Plots).  The plots might need some fussing with window size & I fixed labels with Adobe.  
